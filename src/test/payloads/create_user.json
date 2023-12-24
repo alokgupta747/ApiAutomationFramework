@@ -1,0 +1,10 @@
+{
+	"group": {
+		"id": 3,
+		"code": "TEST_DATA20JU297",
+		"taxClassId": 3,
+		"taxClassName": "xyz",
+		"extensionAttributes": {
+		}
+	}
+}

@@ -1,0 +1,5 @@
+{
+	"user": {
+		"get_user": "/api/users?page=2"
+	}
+}

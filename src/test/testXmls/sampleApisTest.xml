@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MemberTaxes API Tests" thread-count="1" parallel="tests">
+
+	<test name="Quotation Sale Api Endpoint Tests">
+		<classes>
+			<class name="tests.membertaxes.core.QuotationSalesEndPointTests" />
+		</classes>
+	</test>
+
+</suite>

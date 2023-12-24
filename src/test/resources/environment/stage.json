@@ -1,0 +1,10 @@
+{
+	"user": {
+		"get_user_url": "https://reqres.in/",
+		"credentials": {
+			"client_id": "",
+			"client_secret": "",
+			"client_trace_guid": ""
+		}
+	}
+}
